@@ -1,2 +1,6 @@
 # The-Gh0sts-Ransom
 This is a very dangerous ransomware coded in python by me. This is not a toy and is still in development and being tested. I am not responsible for any misuse of this malware. Using this malware without permission can lead to your arrest and serious fines and jail time. This is not a joke. Please use this responibly. If you would like to really test this ransomware then i recommend using a virtual machine like Oracles Virtual Box (no im not sponsered). This malware is designed to stay inside the virtual machine not affecting anything else on your computer (aka your host machine) except the virtual machine itself. Agian, Beware, This is real malware that can do damage. Please be responisble and have fun.
+
+If you really want to download this then simply go up into the top right corner and download this as a .zip file, Then you should be able to run this.
+
+Agian, THIS IS RANSOMEWARE, THIS WILL DESTROY ALL FILES ON YOUR COMPUTER, I AM NOT RESPONISBLE FOR ANY MISUSE OF THIS MALWARE, PLEASE USE RESPONIBLY, AGIAN, I AM NOT RESPONISBLE FOR ANY DAMAGES CAUSED BY THIS RANSOMWARE, THIS IS NOT A JOKE, PLEASE BE RESPONIBLE AND CAREFUL, DO NOT RUN THIS ON YOUR COMPUTER AT ALL COSTS (Unless your using a safe enviroment like a Virtual Machine)
